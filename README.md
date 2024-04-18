@@ -1,4 +1,5 @@
 AirBnB Clone - The Console
+
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 Functionalities of this command interpreter:
@@ -34,7 +35,7 @@ Destroy an object
     * quit - Exits the program (EOF will as well)
 
 
-##### Alternative Syntax
+### Alternative Syntax
 Users are able to issue a number of console command using an alternative syntax:
 
 	Usage: <class_name>.<command>([<id>[name_arg value_arg]|[kwargs]])
